@@ -1,0 +1,15 @@
+import { PageShell } from "@/components/page-shell";
+import { Skeleton } from "@/components/ui/skeleton";
+
+export default function StandingsLoading() {
+  return (
+    <PageShell className="space-y-8 pt-8">
+      <Skeleton className="h-24 w-full" />
+      <div className="grid gap-5 xl:grid-cols-2">
+        {Array.from({ length: 8 }).map((_, index) => (
+          <Skeleton key={index} className="h-[320px] w-full" />
+        ))}
+      </div>
+    </PageShell>
+  );
+}

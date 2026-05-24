@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "CZE",
+    "name": "Czechia",
+    "shortName": "Czechia",
+    "code": "CZE",
+    "confederation": "UEFA",
+    "fifaRank": 41,
+    "eloRating": 1501.38,
+    "form": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "D"
+    ],
+    "goalDifferential": 1,
+    "goalsFor": 7,
+    "goalsAgainst": 6,
+    "flagEmoji": "🇨🇿",
+    "starCount": 0,
+    "colors": {
+      "primary": "#11457E",
+      "secondary": "#FFFFFF",
+      "accent": "#D7141A"
+    },
+    "group": "A"
+  },
+  {
+    "id": "KOR",
+    "name": "Korea Republic",
+    "shortName": "Korea Republic",
+    "code": "KOR",
+    "confederation": "AFC",
+    "fifaRank": 25,
+    "eloRating": 1588.66,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "goalDifferential": 5,
+    "goalsFor": 10,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇰🇷",
+    "starCount": 0,
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#CD2E3A",
+      "accent": "#0047A0"
+    },
+    "group": "A"
+  },
+  {
+    "id": "MEX",
+    "name": "Mexico",
+    "shortName": "Mexico",
+    "code": "MEX",
+    "confederation": "CONCACAF",
+    "fifaRank": 15,
+    "eloRating": 1681.03,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "L"
+    ],
+    "goalDifferential": 4,
+    "goalsFor": 9,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇲🇽",
+    "starCount": 0,
+    "colors": {
+      "primary": "#006847",
+      "secondary": "#FFFFFF",
+      "accent": "#CE1126"
+    },
+    "group": "A"
+  },
+  {
+    "id": "RSA",
+    "name": "South Africa",
+    "shortName": "South Africa",
+    "code": "RSA",
+    "confederation": "CAF",
+    "fifaRank": 55,
+    "eloRating": 1452,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "goalDifferential": 2,
+    "goalsFor": 6,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇿🇦",
+    "starCount": 0,
+    "colors": {
+      "primary": "#007749",
+      "secondary": "#FFB612",
+      "accent": "#DE3831"
+    },
+    "group": "A"
+  },
+  {
+    "id": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "shortName": "Bosnia and Herzegovina",
+    "code": "BIH",
+    "confederation": "UEFA",
+    "fifaRank": 53,
+    "eloRating": 1448,
+    "form": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "L"
+    ],
+    "goalDifferential": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 6,
+    "flagEmoji": "🇧🇦",
+    "starCount": 0,
+    "colors": {
+      "primary": "#002F6C",
+      "secondary": "#FDB913",
+      "accent": "#FFFFFF"
+    },
+    "group": "B"
+  },
+  {
+    "id": "CAN",
+    "name": "Canada",
+    "shortName": "Canada",
+    "code": "CAN",
+    "confederation": "CONCACAF",
+    "fifaRank": 30,
+    "eloRating": 1556.48,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "goalDifferential": 3,
+    "goalsFor": 8,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇨🇦",
+    "starCount": 0,
+    "colors": {
+      "primary": "#D80621",
+      "secondary": "#FFFFFF",
+      "accent": "#1A1A1A"
+    },
+    "group": "B"
+  },
+  {
+    "id": "QAT",
+    "name": "Qatar",
+    "shortName": "Qatar",
+    "code": "QAT",
+    "confederation": "AFC",
+    "fifaRank": 60,
+    "eloRating": 1438,
+    "form": [
+      "D",
+      "L",
+      "W",
+      "D",
+      "L"
+    ],
+    "goalDifferential": -1,
+    "goalsFor": 5,
+    "goalsAgainst": 6,
+    "flagEmoji": "🇶🇦",
+    "starCount": 0,
+    "colors": {
+      "primary": "#8A1538",
+      "secondary": "#FFFFFF",
+      "accent": "#3A0B1A"
+    },
+    "group": "B"
+  },
+  {
+    "id": "SUI",
+    "name": "Switzerland",
+    "shortName": "Switzerland",
+    "code": "SUI",
+    "confederation": "UEFA",
+    "fifaRank": 19,
+    "eloRating": 1649.4,
+    "form": [
+      "D",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "goalDifferential": 2,
+    "goalsFor": 7,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇨🇭",
+    "starCount": 0,
+    "colors": {
+      "primary": "#D52B1E",
+      "secondary": "#FFFFFF",
+      "accent": "#8A1C12"
+    },
+    "group": "B"
+  },
+  {
+    "id": "BRA",
+    "name": "Brazil",
+    "shortName": "Brazil",
+    "code": "BRA",
+    "confederation": "CONMEBOL",
+    "fifaRank": 6,
+    "eloRating": 1761.16,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "D",
+      "W"
+    ],
+    "goalDifferential": 8,
+    "goalsFor": 12,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇧🇷",
+    "starCount": 5,
+    "colors": {
+      "primary": "#009C3B",
+      "secondary": "#FFDF00",
+      "accent": "#002776"
+    },
+    "group": "C"
+  },
+  {
+    "id": "HTI",
+    "name": "Haiti",
+    "shortName": "Haiti",
+    "code": "HTI",
+    "confederation": "CONCACAF",
+    "fifaRank": 74,
+    "eloRating": 1388,
+    "form": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "L"
+    ],
+    "goalDifferential": -1,
+    "goalsFor": 6,
+    "goalsAgainst": 7,
+    "flagEmoji": "🇭🇹",
+    "starCount": 0,
+    "colors": {
+      "primary": "#00209F",
+      "secondary": "#FFFFFF",
+      "accent": "#D21034"
+    },
+    "group": "C"
+  },
+  {
+    "id": "MAR",
+    "name": "Morocco",
+    "shortName": "Morocco",
+    "code": "MAR",
+    "confederation": "CAF",
+    "fifaRank": 8,
+    "eloRating": 1755.87,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "L"
+    ],
+    "goalDifferential": 6,
+    "goalsFor": 10,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇲🇦",
+    "starCount": 0,
+    "colors": {
+      "primary": "#C1272D",
+      "secondary": "#FFFFFF",
+      "accent": "#006233"
+    },
+    "group": "C"
+  },
+  {
+    "id": "SCO",
+    "name": "Scotland",
+    "shortName": "Scotland",
+    "code": "SCO",
+    "confederation": "UEFA",
+    "fifaRank": 43,
+    "eloRating": 1498.35,
+    "form": [
+      "D",
+      "L",
+      "W",
+      "W",
+      "D"
+    ],
+    "goalDifferential": 1,
+    "goalsFor": 7,
+    "goalsAgainst": 6,
+    "flagEmoji": "🏴",
+    "starCount": 0,
+    "colors": {
+      "primary": "#005EB8",
+      "secondary": "#FFFFFF",
+      "accent": "#0C2340"
+    },
+    "group": "C"
+  },
+  {
+    "id": "AUS",
+    "name": "Australia",
+    "shortName": "Australia",
+    "code": "AUS",
+    "confederation": "AFC",
+    "fifaRank": 27,
+    "eloRating": 1580.67,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "D",
+      "L"
+    ],
+    "goalDifferential": 3,
+    "goalsFor": 7,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇦🇺",
+    "starCount": 0,
+    "colors": {
+      "primary": "#012169",
+      "secondary": "#FFFFFF",
+      "accent": "#E4002B"
+    },
+    "group": "D"
+  },
+  {
+    "id": "PAR",
+    "name": "Paraguay",
+    "shortName": "Paraguay",
+    "code": "PAR",
+    "confederation": "CONMEBOL",
+    "fifaRank": 40,
+    "eloRating": 1503.5,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "goalDifferential": 1,
+    "goalsFor": 6,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇵🇾",
+    "starCount": 0,
+    "colors": {
+      "primary": "#D52B1E",
+      "secondary": "#FFFFFF",
+      "accent": "#0038A8"
+    },
+    "group": "D"
+  },
+  {
+    "id": "TUR",
+    "name": "Türkiye",
+    "shortName": "Türkiye",
+    "code": "TUR",
+    "confederation": "UEFA",
+    "fifaRank": 22,
+    "eloRating": 1599.04,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "D"
+    ],
+    "goalDifferential": 4,
+    "goalsFor": 9,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇹🇷",
+    "starCount": 0,
+    "colors": {
+      "primary": "#E30A17",
+      "secondary": "#FFFFFF",
+      "accent": "#5A0A0F"
+    },
+    "group": "D"
+  },
+  {
+    "id": "USA",
+    "name": "United States",
+    "shortName": "United States",
+    "code": "USA",
+    "confederation": "CONCACAF",
+    "fifaRank": 16,
+    "eloRating": 1673.13,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "goalDifferential": 4,
+    "goalsFor": 8,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇺🇸",
+    "starCount": 0,
+    "colors": {
+      "primary": "#1F5AA6",
+      "secondary": "#FFFFFF",
+      "accent": "#D81E34"
+    },
+    "group": "D"
+  },
+  {
+    "id": "CIV",
+    "name": "Côte d'Ivoire",
+    "shortName": "Côte d'Ivoire",
+    "code": "CIV",
+    "confederation": "CAF",
+    "fifaRank": 34,
+    "eloRating": 1532.98,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "goalDifferential": 4,
+    "goalsFor": 9,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇨🇮",
+    "starCount": 0,
+    "colors": {
+      "primary": "#F77F00",
+      "secondary": "#FFFFFF",
+      "accent": "#009E60"
+    },
+    "group": "E"
+  },
+  {
+    "id": "CUW",
+    "name": "Curaçao",
+    "shortName": "Curaçao",
+    "code": "CUW",
+    "confederation": "CONCACAF",
+    "fifaRank": 78,
+    "eloRating": 1375,
+    "form": [
+      "D",
+      "W",
+      "L",
+      "D",
+      "L"
+    ],
+    "goalDifferential": -2,
+    "goalsFor": 5,
+    "goalsAgainst": 7,
+    "flagEmoji": "🇨🇼",
+    "starCount": 0,
+    "colors": {
+      "primary": "#002B7F",
+      "secondary": "#FFFFFF",
+      "accent": "#F9E547"
+    },
+    "group": "E"
+  },
+  {
+    "id": "ECU",
+    "name": "Ecuador",
+    "shortName": "Ecuador",
+    "code": "ECU",
+    "confederation": "CONMEBOL",
+    "fifaRank": 23,
+    "eloRating": 1594.78,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "D",
+      "L"
+    ],
+    "goalDifferential": 3,
+    "goalsFor": 8,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇪🇨",
+    "starCount": 0,
+    "colors": {
+      "primary": "#FFDD00",
+      "secondary": "#034EA2",
+      "accent": "#ED1C24"
+    },
+    "group": "E"
+  },
+  {
+    "id": "GER",
+    "name": "Germany",
+    "shortName": "Germany",
+    "code": "GER",
+    "confederation": "UEFA",
+    "fifaRank": 10,
+    "eloRating": 1730.37,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "L"
+    ],
+    "goalDifferential": 5,
+    "goalsFor": 10,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇩🇪",
+    "starCount": 4,
+    "colors": {
+      "primary": "#111111",
+      "secondary": "#FFFFFF",
+      "accent": "#DD0000"
+    },
+    "group": "E"
+  },
+  {
+    "id": "JPN",
+    "name": "Japan",
+    "shortName": "Japan",
+    "code": "JPN",
+    "confederation": "AFC",
+    "fifaRank": 18,
+    "eloRating": 1660.43,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "D",
+      "L"
+    ],
+    "goalDifferential": 7,
+    "goalsFor": 11,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇯🇵",
+    "starCount": 0,
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#BC002D",
+      "accent": "#1F2B5B"
+    },
+    "group": "F"
+  },
+  {
+    "id": "NED",
+    "name": "Netherlands",
+    "shortName": "Netherlands",
+    "code": "NED",
+    "confederation": "UEFA",
+    "fifaRank": 7,
+    "eloRating": 1757.87,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "D"
+    ],
+    "goalDifferential": 6,
+    "goalsFor": 11,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇳🇱",
+    "starCount": 0,
+    "colors": {
+      "primary": "#F36C21",
+      "secondary": "#FFFFFF",
+      "accent": "#21468B"
+    },
+    "group": "F"
+  },
+  {
+    "id": "SWE",
+    "name": "Sweden",
+    "shortName": "Sweden",
+    "code": "SWE",
+    "confederation": "UEFA",
+    "fifaRank": 38,
+    "eloRating": 1514.77,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "goalDifferential": 2,
+    "goalsFor": 7,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇸🇪",
+    "starCount": 0,
+    "colors": {
+      "primary": "#006AA7",
+      "secondary": "#FECC00",
+      "accent": "#1B1F3B"
+    },
+    "group": "F"
+  },
+  {
+    "id": "TUN",
+    "name": "Tunisia",
+    "shortName": "Tunisia",
+    "code": "TUN",
+    "confederation": "CAF",
+    "fifaRank": 44,
+    "eloRating": 1483.05,
+    "form": [
+      "D",
+      "W",
+      "L",
+      "W",
+      "D"
+    ],
+    "goalDifferential": 1,
+    "goalsFor": 6,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇹🇳",
+    "starCount": 0,
+    "colors": {
+      "primary": "#E70013",
+      "secondary": "#FFFFFF",
+      "accent": "#A7000F"
+    },
+    "group": "F"
+  },
+  {
+    "id": "BEL",
+    "name": "Belgium",
+    "shortName": "Belgium",
+    "code": "BEL",
+    "confederation": "UEFA",
+    "fifaRank": 9,
+    "eloRating": 1734.71,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "L"
+    ],
+    "goalDifferential": 5,
+    "goalsFor": 10,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇧🇪",
+    "starCount": 0,
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFD90C",
+      "accent": "#EF3340"
+    },
+    "group": "G"
+  },
+  {
+    "id": "EGY",
+    "name": "Egypt",
+    "shortName": "Egypt",
+    "code": "EGY",
+    "confederation": "CAF",
+    "fifaRank": 29,
+    "eloRating": 1563.24,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "goalDifferential": 3,
+    "goalsFor": 8,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇪🇬",
+    "starCount": 0,
+    "colors": {
+      "primary": "#CE1126",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "group": "G"
+  },
+  {
+    "id": "IRN",
+    "name": "IR Iran",
+    "shortName": "IR Iran",
+    "code": "IRN",
+    "confederation": "AFC",
+    "fifaRank": 21,
+    "eloRating": 1615.3,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "goalDifferential": 4,
+    "goalsFor": 8,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇮🇷",
+    "starCount": 0,
+    "colors": {
+      "primary": "#239F40",
+      "secondary": "#FFFFFF",
+      "accent": "#DA0000"
+    },
+    "group": "G"
+  },
+  {
+    "id": "NZL",
+    "name": "New Zealand",
+    "shortName": "New Zealand",
+    "code": "NZL",
+    "confederation": "OFC",
+    "fifaRank": 101,
+    "eloRating": 1281.6,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "D",
+      "W"
+    ],
+    "goalDifferential": 8,
+    "goalsFor": 12,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇳🇿",
+    "starCount": 0,
+    "colors": {
+      "primary": "#00247D",
+      "secondary": "#FFFFFF",
+      "accent": "#CC142B"
+    },
+    "group": "G"
+  },
+  {
+    "id": "CPV",
+    "name": "Cabo Verde",
+    "shortName": "Cabo Verde",
+    "code": "CPV",
+    "confederation": "CAF",
+    "fifaRank": 58,
+    "eloRating": 1440,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "goalDifferential": 2,
+    "goalsFor": 7,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇨🇻",
+    "starCount": 0,
+    "colors": {
+      "primary": "#003893",
+      "secondary": "#FFFFFF",
+      "accent": "#CF2027"
+    },
+    "group": "H"
+  },
+  {
+    "id": "KSA",
+    "name": "Saudi Arabia",
+    "shortName": "Saudi Arabia",
+    "code": "KSA",
+    "confederation": "AFC",
+    "fifaRank": 62,
+    "eloRating": 1422,
+    "form": [
+      "D",
+      "W",
+      "L",
+      "D",
+      "W"
+    ],
+    "goalDifferential": 1,
+    "goalsFor": 6,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇸🇦",
+    "starCount": 0,
+    "colors": {
+      "primary": "#006C35",
+      "secondary": "#FFFFFF",
+      "accent": "#154734"
+    },
+    "group": "H"
+  },
+  {
+    "id": "ESP",
+    "name": "Spain",
+    "shortName": "Spain",
+    "code": "ESP",
+    "confederation": "UEFA",
+    "fifaRank": 2,
+    "eloRating": 1876.4,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "D",
+      "W"
+    ],
+    "goalDifferential": 8,
+    "goalsFor": 12,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇪🇸",
+    "starCount": 1,
+    "colors": {
+      "primary": "#AA151B",
+      "secondary": "#F1BF00",
+      "accent": "#0039A6"
+    },
+    "group": "H"
+  },
+  {
+    "id": "URU",
+    "name": "Uruguay",
+    "shortName": "Uruguay",
+    "code": "URU",
+    "confederation": "CONMEBOL",
+    "fifaRank": 17,
+    "eloRating": 1673.07,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "L"
+    ],
+    "goalDifferential": 5,
+    "goalsFor": 9,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇺🇾",
+    "starCount": 2,
+    "colors": {
+      "primary": "#6CC3FF",
+      "secondary": "#FFFFFF",
+      "accent": "#001F5B"
+    },
+    "group": "H"
+  },
+  {
+    "id": "FRA",
+    "name": "France",
+    "shortName": "France",
+    "code": "FRA",
+    "confederation": "UEFA",
+    "fifaRank": 1,
+    "eloRating": 1877.32,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "goalDifferential": 9,
+    "goalsFor": 13,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇫🇷",
+    "starCount": 2,
+    "colors": {
+      "primary": "#002654",
+      "secondary": "#FFFFFF",
+      "accent": "#ED2939"
+    },
+    "group": "I"
+  },
+  {
+    "id": "IRQ",
+    "name": "Iraq",
+    "shortName": "Iraq",
+    "code": "IRQ",
+    "confederation": "AFC",
+    "fifaRank": 64,
+    "eloRating": 1412,
+    "form": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "D"
+    ],
+    "goalDifferential": 1,
+    "goalsFor": 6,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇮🇶",
+    "starCount": 0,
+    "colors": {
+      "primary": "#CE1126",
+      "secondary": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "group": "I"
+  },
+  {
+    "id": "NOR",
+    "name": "Norway",
+    "shortName": "Norway",
+    "code": "NOR",
+    "confederation": "UEFA",
+    "fifaRank": 31,
+    "eloRating": 1550.94,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "D",
+      "L"
+    ],
+    "goalDifferential": 2,
+    "goalsFor": 7,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇳🇴",
+    "starCount": 0,
+    "colors": {
+      "primary": "#BA0C2F",
+      "secondary": "#FFFFFF",
+      "accent": "#00205B"
+    },
+    "group": "I"
+  },
+  {
+    "id": "SEN",
+    "name": "Senegal",
+    "shortName": "Senegal",
+    "code": "SEN",
+    "confederation": "CAF",
+    "fifaRank": 14,
+    "eloRating": 1688.99,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "goalDifferential": 5,
+    "goalsFor": 9,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇸🇳",
+    "starCount": 0,
+    "colors": {
+      "primary": "#00853F",
+      "secondary": "#FDEF42",
+      "accent": "#E31B23"
+    },
+    "group": "I"
+  },
+  {
+    "id": "ALG",
+    "name": "Algeria",
+    "shortName": "Algeria",
+    "code": "ALG",
+    "confederation": "CAF",
+    "fifaRank": 28,
+    "eloRating": 1564.26,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+    ],
+    "goalDifferential": 4,
+    "goalsFor": 8,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇩🇿",
+    "starCount": 0,
+    "colors": {
+      "primary": "#006233",
+      "secondary": "#FFFFFF",
+      "accent": "#D21034"
+    },
+    "group": "J"
+  },
+  {
+    "id": "ARG",
+    "name": "Argentina",
+    "shortName": "Argentina",
+    "code": "ARG",
+    "confederation": "CONMEBOL",
+    "fifaRank": 3,
+    "eloRating": 1874.81,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "D"
+    ],
+    "goalDifferential": 9,
+    "goalsFor": 14,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇦🇷",
+    "starCount": 3,
+    "colors": {
+      "primary": "#74ACDF",
+      "secondary": "#FFFFFF",
+      "accent": "#F6B40E"
+    },
+    "group": "J"
+  },
+  {
+    "id": "AUT",
+    "name": "Austria",
+    "shortName": "Austria",
+    "code": "AUT",
+    "confederation": "UEFA",
+    "fifaRank": 24,
+    "eloRating": 1593.45,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "W"
+    ],
+    "goalDifferential": 3,
+    "goalsFor": 8,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇦🇹",
+    "starCount": 0,
+    "colors": {
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "accent": "#B51F31"
+    },
+    "group": "J"
+  },
+  {
+    "id": "JOR",
+    "name": "Jordan",
+    "shortName": "Jordan",
+    "code": "JOR",
+    "confederation": "AFC",
+    "fifaRank": 66,
+    "eloRating": 1406,
+    "form": [
+      "W",
+      "D",
+      "D",
+      "W",
+      "L"
+    ],
+    "goalDifferential": 1,
+    "goalsFor": 6,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇯🇴",
+    "starCount": 0,
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#CE1126"
+    },
+    "group": "J"
+  },
+  {
+    "id": "COL",
+    "name": "Colombia",
+    "shortName": "Colombia",
+    "code": "COL",
+    "confederation": "CONMEBOL",
+    "fifaRank": 13,
+    "eloRating": 1693.09,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "L"
+    ],
+    "goalDifferential": 5,
+    "goalsFor": 10,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇨🇴",
+    "starCount": 0,
+    "colors": {
+      "primary": "#FCD116",
+      "secondary": "#003893",
+      "accent": "#CE1126"
+    },
+    "group": "K"
+  },
+  {
+    "id": "COD",
+    "name": "Congo DR",
+    "shortName": "Congo DR",
+    "code": "COD",
+    "confederation": "CAF",
+    "fifaRank": 46,
+    "eloRating": 1478.35,
+    "form": [
+      "W",
+      "D",
+      "L",
+      "W",
+      "W"
+    ],
+    "goalDifferential": 2,
+    "goalsFor": 7,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇨🇩",
+    "starCount": 0,
+    "colors": {
+      "primary": "#00A3E0",
+      "secondary": "#FFFFFF",
+      "accent": "#EF3340"
+    },
+    "group": "K"
+  },
+  {
+    "id": "POR",
+    "name": "Portugal",
+    "shortName": "Portugal",
+    "code": "POR",
+    "confederation": "UEFA",
+    "fifaRank": 5,
+    "eloRating": 1763.83,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "W"
+    ],
+    "goalDifferential": 7,
+    "goalsFor": 12,
+    "goalsAgainst": 5,
+    "flagEmoji": "🇵🇹",
+    "starCount": 0,
+    "colors": {
+      "primary": "#006600",
+      "secondary": "#FF0000",
+      "accent": "#FFCC00"
+    },
+    "group": "K"
+  },
+  {
+    "id": "UZB",
+    "name": "Uzbekistan",
+    "shortName": "Uzbekistan",
+    "code": "UZB",
+    "confederation": "AFC",
+    "fifaRank": 50,
+    "eloRating": 1465.34,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "D",
+      "W"
+    ],
+    "goalDifferential": 3,
+    "goalsFor": 7,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇺🇿",
+    "starCount": 0,
+    "colors": {
+      "primary": "#0099B5",
+      "secondary": "#FFFFFF",
+      "accent": "#1EB53A"
+    },
+    "group": "K"
+  },
+  {
+    "id": "CRO",
+    "name": "Croatia",
+    "shortName": "Croatia",
+    "code": "CRO",
+    "confederation": "UEFA",
+    "fifaRank": 11,
+    "eloRating": 1717.07,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "W",
+      "L"
+    ],
+    "goalDifferential": 5,
+    "goalsFor": 9,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇭🇷",
+    "starCount": 0,
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#171796"
+    },
+    "group": "L"
+  },
+  {
+    "id": "ENG",
+    "name": "England",
+    "shortName": "England",
+    "code": "ENG",
+    "confederation": "UEFA",
+    "fifaRank": 4,
+    "eloRating": 1825.97,
+    "form": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "L"
+    ],
+    "goalDifferential": 7,
+    "goalsFor": 12,
+    "goalsAgainst": 5,
+    "flagEmoji": "🏴",
+    "starCount": 1,
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#CE1126",
+      "accent": "#00247D"
+    },
+    "group": "L"
+  },
+  {
+    "id": "GHA",
+    "name": "Ghana",
+    "shortName": "Ghana",
+    "code": "GHA",
+    "confederation": "CAF",
+    "fifaRank": 68,
+    "eloRating": 1400,
+    "form": [
+      "D",
+      "W",
+      "L",
+      "W",
+      "L"
+    ],
+    "goalDifferential": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 6,
+    "flagEmoji": "🇬🇭",
+    "starCount": 0,
+    "colors": {
+      "primary": "#CE1126",
+      "secondary": "#FCD116",
+      "accent": "#006B3F"
+    },
+    "group": "L"
+  },
+  {
+    "id": "PAN",
+    "name": "Panama",
+    "shortName": "Panama",
+    "code": "PAN",
+    "confederation": "CONCACAF",
+    "fifaRank": 33,
+    "eloRating": 1540.64,
+    "form": [
+      "W",
+      "D",
+      "W",
+      "L",
+      "D"
+    ],
+    "goalDifferential": 2,
+    "goalsFor": 6,
+    "goalsAgainst": 4,
+    "flagEmoji": "🇵🇦",
+    "starCount": 0,
+    "colors": {
+      "primary": "#005293",
+      "secondary": "#FFFFFF",
+      "accent": "#D21034"
+    },
+    "group": "L"
+  }
+]

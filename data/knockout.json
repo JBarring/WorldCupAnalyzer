@@ -1,0 +1,322 @@
+[
+  {
+    "id": "M73",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "2A",
+    "awaySlot": "2B",
+    "city": "Inglewood, United States",
+    "venue": "Los Angeles Stadium",
+    "kickoff": "2026-06-28T12:00:00-07:00"
+  },
+  {
+    "id": "M74",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1E",
+    "awaySlot": "3ABCDF",
+    "city": "Foxborough, United States",
+    "venue": "Boston Stadium",
+    "kickoff": "2026-06-29T16:30:00-04:00"
+  },
+  {
+    "id": "M75",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1F",
+    "awaySlot": "2C",
+    "city": "Guadalupe, Mexico",
+    "venue": "Monterrey Stadium",
+    "kickoff": "2026-06-29T19:00:00-06:00"
+  },
+  {
+    "id": "M76",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1C",
+    "awaySlot": "2F",
+    "city": "Houston, United States",
+    "venue": "Houston Stadium",
+    "kickoff": "2026-06-29T12:00:00-05:00"
+  },
+  {
+    "id": "M77",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1I",
+    "awaySlot": "3CDFGH",
+    "city": "East Rutherford, United States",
+    "venue": "New York New Jersey Stadium",
+    "kickoff": "2026-06-30T17:00:00-04:00"
+  },
+  {
+    "id": "M78",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "2E",
+    "awaySlot": "2I",
+    "city": "Arlington, United States",
+    "venue": "Dallas Stadium",
+    "kickoff": "2026-06-30T12:00:00-05:00"
+  },
+  {
+    "id": "M79",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1A",
+    "awaySlot": "3CEFHI",
+    "city": "Ciudad de México, Mexico",
+    "venue": "Mexico City Stadium",
+    "kickoff": "2026-06-30T19:00:00-06:00"
+  },
+  {
+    "id": "M80",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1L",
+    "awaySlot": "3EHIJK",
+    "city": "Atlanta, United States",
+    "venue": "Atlanta Stadium",
+    "kickoff": "2026-07-01T12:00:00-04:00"
+  },
+  {
+    "id": "M81",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1D",
+    "awaySlot": "3BEFIJ",
+    "city": "Santa Clara, United States",
+    "venue": "San Francisco Bay Area Stadium",
+    "kickoff": "2026-07-01T17:00:00-07:00"
+  },
+  {
+    "id": "M82",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1G",
+    "awaySlot": "3AEHIJ",
+    "city": "Seattle, United States",
+    "venue": "Seattle Stadium",
+    "kickoff": "2026-07-01T13:00:00-07:00"
+  },
+  {
+    "id": "M83",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "2K",
+    "awaySlot": "2L",
+    "city": "Toronto, Canada",
+    "venue": "Toronto Stadium",
+    "kickoff": "2026-07-02T19:00:00-04:00"
+  },
+  {
+    "id": "M84",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1H",
+    "awaySlot": "2J",
+    "city": "Inglewood, United States",
+    "venue": "Los Angeles Stadium",
+    "kickoff": "2026-07-02T12:00:00-07:00"
+  },
+  {
+    "id": "M85",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1B",
+    "awaySlot": "3EFGIJ",
+    "city": "Vancouver, Canada",
+    "venue": "BC Place Vancouver",
+    "kickoff": "2026-07-02T20:00:00-07:00"
+  },
+  {
+    "id": "M86",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1J",
+    "awaySlot": "2H",
+    "city": "Miami Gardens, United States",
+    "venue": "Miami Stadium",
+    "kickoff": "2026-07-03T18:00:00-04:00"
+  },
+  {
+    "id": "M87",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "1K",
+    "awaySlot": "3DEIJL",
+    "city": "Kansas City, United States",
+    "venue": "Kansas City Stadium",
+    "kickoff": "2026-07-03T20:30:00-05:00"
+  },
+  {
+    "id": "M88",
+    "stage": "ROUND_OF_32",
+    "roundLabel": "Round of 32",
+    "homeSlot": "2D",
+    "awaySlot": "2G",
+    "city": "Arlington, United States",
+    "venue": "Dallas Stadium",
+    "kickoff": "2026-07-03T13:00:00-05:00"
+  },
+  {
+    "id": "M89",
+    "stage": "ROUND_OF_16",
+    "roundLabel": "Round of 16",
+    "homeSlot": "W74",
+    "awaySlot": "W77",
+    "city": "Philadelphia, United States",
+    "venue": "Philadelphia Stadium",
+    "kickoff": "2026-07-04T17:00:00-04:00"
+  },
+  {
+    "id": "M90",
+    "stage": "ROUND_OF_16",
+    "roundLabel": "Round of 16",
+    "homeSlot": "W73",
+    "awaySlot": "W75",
+    "city": "Houston, United States",
+    "venue": "Houston Stadium",
+    "kickoff": "2026-07-04T12:00:00-05:00"
+  },
+  {
+    "id": "M91",
+    "stage": "ROUND_OF_16",
+    "roundLabel": "Round of 16",
+    "homeSlot": "W76",
+    "awaySlot": "W78",
+    "city": "East Rutherford, United States",
+    "venue": "New York New Jersey Stadium",
+    "kickoff": "2026-07-05T16:00:00-04:00"
+  },
+  {
+    "id": "M92",
+    "stage": "ROUND_OF_16",
+    "roundLabel": "Round of 16",
+    "homeSlot": "W79",
+    "awaySlot": "W80",
+    "city": "Ciudad de México, Mexico",
+    "venue": "Mexico City Stadium",
+    "kickoff": "2026-07-05T18:00:00-06:00"
+  },
+  {
+    "id": "M93",
+    "stage": "ROUND_OF_16",
+    "roundLabel": "Round of 16",
+    "homeSlot": "W83",
+    "awaySlot": "W84",
+    "city": "Arlington, United States",
+    "venue": "Dallas Stadium",
+    "kickoff": "2026-07-06T14:00:00-05:00"
+  },
+  {
+    "id": "M94",
+    "stage": "ROUND_OF_16",
+    "roundLabel": "Round of 16",
+    "homeSlot": "W81",
+    "awaySlot": "W82",
+    "city": "Seattle, United States",
+    "venue": "Seattle Stadium",
+    "kickoff": "2026-07-06T17:00:00-07:00"
+  },
+  {
+    "id": "M95",
+    "stage": "ROUND_OF_16",
+    "roundLabel": "Round of 16",
+    "homeSlot": "W86",
+    "awaySlot": "W88",
+    "city": "Atlanta, United States",
+    "venue": "Atlanta Stadium",
+    "kickoff": "2026-07-07T12:00:00-04:00"
+  },
+  {
+    "id": "M96",
+    "stage": "ROUND_OF_16",
+    "roundLabel": "Round of 16",
+    "homeSlot": "W85",
+    "awaySlot": "W87",
+    "city": "Vancouver, Canada",
+    "venue": "BC Place Vancouver",
+    "kickoff": "2026-07-07T13:00:00-07:00"
+  },
+  {
+    "id": "M97",
+    "stage": "QUARTERFINAL",
+    "roundLabel": "Quarterfinal",
+    "homeSlot": "W89",
+    "awaySlot": "W90",
+    "city": "Foxborough, United States",
+    "venue": "Boston Stadium",
+    "kickoff": "2026-07-09T16:00:00-04:00"
+  },
+  {
+    "id": "M98",
+    "stage": "QUARTERFINAL",
+    "roundLabel": "Quarterfinal",
+    "homeSlot": "W93",
+    "awaySlot": "W94",
+    "city": "Inglewood, United States",
+    "venue": "Los Angeles Stadium",
+    "kickoff": "2026-07-10T12:00:00-07:00"
+  },
+  {
+    "id": "M99",
+    "stage": "QUARTERFINAL",
+    "roundLabel": "Quarterfinal",
+    "homeSlot": "W91",
+    "awaySlot": "W92",
+    "city": "Miami Gardens, United States",
+    "venue": "Miami Stadium",
+    "kickoff": "2026-07-11T17:00:00-04:00"
+  },
+  {
+    "id": "M100",
+    "stage": "QUARTERFINAL",
+    "roundLabel": "Quarterfinal",
+    "homeSlot": "W95",
+    "awaySlot": "W96",
+    "city": "Kansas City, United States",
+    "venue": "Kansas City Stadium",
+    "kickoff": "2026-07-11T20:00:00-05:00"
+  },
+  {
+    "id": "M101",
+    "stage": "SEMIFINAL",
+    "roundLabel": "Semifinal",
+    "homeSlot": "W97",
+    "awaySlot": "W98",
+    "city": "Arlington, United States",
+    "venue": "Dallas Stadium",
+    "kickoff": "2026-07-14T14:00:00-05:00"
+  },
+  {
+    "id": "M102",
+    "stage": "SEMIFINAL",
+    "roundLabel": "Semifinal",
+    "homeSlot": "W99",
+    "awaySlot": "W100",
+    "city": "Atlanta, United States",
+    "venue": "Atlanta Stadium",
+    "kickoff": "2026-07-15T15:00:00-04:00"
+  },
+  {
+    "id": "M103",
+    "stage": "THIRD_PLACE",
+    "roundLabel": "Third Place",
+    "homeSlot": "L101",
+    "awaySlot": "L102",
+    "city": "Miami Gardens, United States",
+    "venue": "Miami Stadium",
+    "kickoff": "2026-07-18T17:00:00-04:00"
+  },
+  {
+    "id": "M104",
+    "stage": "FINAL",
+    "roundLabel": "Final",
+    "homeSlot": "W101",
+    "awaySlot": "W102",
+    "city": "East Rutherford, United States",
+    "venue": "New York New Jersey Stadium",
+    "kickoff": "2026-07-19T15:00:00-04:00"
+  }
+]

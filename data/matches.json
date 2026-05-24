@@ -1,0 +1,5546 @@
+[
+  {
+    "id": "M1",
+    "slug": "mexico-vs-south-africa",
+    "homeTeamId": "MEX",
+    "awayTeamId": "RSA",
+    "venue": "Mexico City Stadium",
+    "city": "Mexico City, Mexico",
+    "kickoff": "2026-06-11T18:00:00-06:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "A",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": true
+  },
+  {
+    "id": "M2",
+    "slug": "korea-republic-vs-czechia",
+    "homeTeamId": "KOR",
+    "awayTeamId": "CZE",
+    "venue": "Guadalajara Stadium",
+    "city": "Zapopan, Mexico",
+    "kickoff": "2026-06-11T20:00:00-06:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "A",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M3",
+    "slug": "canada-vs-bosnia-and-herzegovina",
+    "homeTeamId": "CAN",
+    "awayTeamId": "BIH",
+    "venue": "Toronto Stadium",
+    "city": "Toronto Stadium, Toronto, Canada",
+    "kickoff": "2026-06-12T15:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "B",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": true
+  },
+  {
+    "id": "M4",
+    "slug": "united-states-vs-paraguay",
+    "homeTeamId": "USA",
+    "awayTeamId": "PAR",
+    "venue": "Los Angeles Stadium",
+    "city": "Los Angeles Stadium, Inglewood, U.S.",
+    "kickoff": "2026-06-12T18:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "D",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": true
+  },
+  {
+    "id": "M5",
+    "slug": "haiti-vs-scotland",
+    "homeTeamId": "HTI",
+    "awayTeamId": "SCO",
+    "venue": "Boston Stadium",
+    "city": "Foxborough, United States",
+    "kickoff": "2026-06-13T21:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "C",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M6",
+    "slug": "australia-vs-turkiye",
+    "homeTeamId": "AUS",
+    "awayTeamId": "TUR",
+    "venue": "BC Place Vancouver",
+    "city": "Vancouver, Canada",
+    "kickoff": "2026-06-13T21:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "D",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M7",
+    "slug": "brazil-vs-morocco",
+    "homeTeamId": "BRA",
+    "awayTeamId": "MAR",
+    "venue": "New York New Jersey Stadium",
+    "city": "East Rutherford, United States",
+    "kickoff": "2026-06-13T18:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "C",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": true
+  },
+  {
+    "id": "M8",
+    "slug": "qatar-vs-switzerland",
+    "homeTeamId": "QAT",
+    "awayTeamId": "SUI",
+    "venue": "San Francisco Bay Area Stadium",
+    "city": "Santa Clara, United States",
+    "kickoff": "2026-06-13T12:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "B",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M9",
+    "slug": "cote-d-ivoire-vs-ecuador",
+    "homeTeamId": "CIV",
+    "awayTeamId": "ECU",
+    "venue": "Philadelphia Stadium",
+    "city": "Philadelphia, United States",
+    "kickoff": "2026-06-14T19:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "E",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M10",
+    "slug": "germany-vs-curacao",
+    "homeTeamId": "GER",
+    "awayTeamId": "CUW",
+    "venue": "Houston Stadium",
+    "city": "Houston, United States",
+    "kickoff": "2026-06-14T12:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "E",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M11",
+    "slug": "netherlands-vs-japan",
+    "homeTeamId": "NED",
+    "awayTeamId": "JPN",
+    "venue": "Dallas Stadium",
+    "city": "Arlington, United States",
+    "kickoff": "2026-06-14T15:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "F",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M12",
+    "slug": "sweden-vs-tunisia",
+    "homeTeamId": "SWE",
+    "awayTeamId": "TUN",
+    "venue": "Monterrey Stadium",
+    "city": "Guadalupe, Mexico",
+    "kickoff": "2026-06-14T20:00:00-06:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "F",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M13",
+    "slug": "saudi-arabia-vs-uruguay",
+    "homeTeamId": "KSA",
+    "awayTeamId": "URU",
+    "venue": "Miami Stadium",
+    "city": "Miami Gardens, United States",
+    "kickoff": "2026-06-15T18:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "H",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M14",
+    "slug": "spain-vs-cabo-verde",
+    "homeTeamId": "ESP",
+    "awayTeamId": "CPV",
+    "venue": "Atlanta Stadium",
+    "city": "Atlanta, United States",
+    "kickoff": "2026-06-15T12:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "H",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": true
+  },
+  {
+    "id": "M15",
+    "slug": "ir-iran-vs-new-zealand",
+    "homeTeamId": "IRN",
+    "awayTeamId": "NZL",
+    "venue": "Los Angeles Stadium",
+    "city": "Inglewood, United States",
+    "kickoff": "2026-06-15T18:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "G",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M16",
+    "slug": "belgium-vs-egypt",
+    "homeTeamId": "BEL",
+    "awayTeamId": "EGY",
+    "venue": "Seattle Stadium",
+    "city": "Seattle, United States",
+    "kickoff": "2026-06-15T12:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "G",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M17",
+    "slug": "france-vs-senegal",
+    "homeTeamId": "FRA",
+    "awayTeamId": "SEN",
+    "venue": "New York New Jersey Stadium",
+    "city": "East Rutherford, United States",
+    "kickoff": "2026-06-16T15:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "I",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M18",
+    "slug": "iraq-vs-norway",
+    "homeTeamId": "IRQ",
+    "awayTeamId": "NOR",
+    "venue": "Boston Stadium",
+    "city": "Foxborough, United States",
+    "kickoff": "2026-06-16T18:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "I",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": true
+  },
+  {
+    "id": "M19",
+    "slug": "argentina-vs-algeria",
+    "homeTeamId": "ARG",
+    "awayTeamId": "ALG",
+    "venue": "Kansas City Stadium",
+    "city": "Kansas City, United States",
+    "kickoff": "2026-06-16T20:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "J",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M20",
+    "slug": "austria-vs-jordan",
+    "homeTeamId": "AUT",
+    "awayTeamId": "JOR",
+    "venue": "San Francisco Bay Area Stadium",
+    "city": "Santa Clara, United States",
+    "kickoff": "2026-06-16T21:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "J",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M21",
+    "slug": "ghana-vs-panama",
+    "homeTeamId": "GHA",
+    "awayTeamId": "PAN",
+    "venue": "Toronto Stadium",
+    "city": "Toronto, Canada",
+    "kickoff": "2026-06-17T19:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "L",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M22",
+    "slug": "england-vs-croatia",
+    "homeTeamId": "ENG",
+    "awayTeamId": "CRO",
+    "venue": "Dallas Stadium",
+    "city": "Arlington, United States",
+    "kickoff": "2026-06-17T15:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "L",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M23",
+    "slug": "portugal-vs-congo-dr",
+    "homeTeamId": "POR",
+    "awayTeamId": "COD",
+    "venue": "Houston Stadium",
+    "city": "Houston, United States",
+    "kickoff": "2026-06-17T12:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "K",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M24",
+    "slug": "uzbekistan-vs-colombia",
+    "homeTeamId": "UZB",
+    "awayTeamId": "COL",
+    "venue": "Mexico City Stadium",
+    "city": "Ciudad de México, Mexico",
+    "kickoff": "2026-06-17T21:00:00-06:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "K",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M25",
+    "slug": "czechia-vs-south-africa",
+    "homeTeamId": "CZE",
+    "awayTeamId": "RSA",
+    "venue": "Atlanta Stadium",
+    "city": "Atlanta, United States",
+    "kickoff": "2026-06-18T12:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "A",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M26",
+    "slug": "switzerland-vs-bosnia-and-herzegovina",
+    "homeTeamId": "SUI",
+    "awayTeamId": "BIH",
+    "venue": "Los Angeles Stadium",
+    "city": "Inglewood, United States",
+    "kickoff": "2026-06-18T12:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "B",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M27",
+    "slug": "canada-vs-qatar",
+    "homeTeamId": "CAN",
+    "awayTeamId": "QAT",
+    "venue": "BC Place Vancouver",
+    "city": "BC Place Vancouver, Vancouver, Canada",
+    "kickoff": "2026-06-18T15:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "B",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M28",
+    "slug": "mexico-vs-korea-republic",
+    "homeTeamId": "MEX",
+    "awayTeamId": "KOR",
+    "venue": "Guadalajara Stadium",
+    "city": "Guadalajara Stadium, Guadalajara, Mexico",
+    "kickoff": "2026-06-18T19:00:00-06:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "A",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M29",
+    "slug": "brazil-vs-haiti",
+    "homeTeamId": "BRA",
+    "awayTeamId": "HTI",
+    "venue": "Philadelphia Stadium",
+    "city": "Philadelphia, United States",
+    "kickoff": "2026-06-19T21:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "C",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M30",
+    "slug": "scotland-vs-morocco",
+    "homeTeamId": "SCO",
+    "awayTeamId": "MAR",
+    "venue": "Boston Stadium",
+    "city": "Foxborough, United States",
+    "kickoff": "2026-06-19T18:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "C",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M31",
+    "slug": "turkiye-vs-paraguay",
+    "homeTeamId": "TUR",
+    "awayTeamId": "PAR",
+    "venue": "San Francisco Bay Area Stadium",
+    "city": "Santa Clara, United States",
+    "kickoff": "2026-06-19T21:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "D",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M32",
+    "slug": "united-states-vs-australia",
+    "homeTeamId": "USA",
+    "awayTeamId": "AUS",
+    "venue": "Seattle Stadium",
+    "city": "Seattle Stadium, Seattle, United States",
+    "kickoff": "2026-06-20T00:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "D",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M33",
+    "slug": "germany-vs-cote-d-ivoire",
+    "homeTeamId": "GER",
+    "awayTeamId": "CIV",
+    "venue": "Toronto Stadium",
+    "city": "Toronto, Canada",
+    "kickoff": "2026-06-20T16:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "E",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": true
+  },
+  {
+    "id": "M34",
+    "slug": "ecuador-vs-curacao",
+    "homeTeamId": "ECU",
+    "awayTeamId": "CUW",
+    "venue": "Kansas City Stadium",
+    "city": "Kansas City, United States",
+    "kickoff": "2026-06-20T19:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "E",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M35",
+    "slug": "netherlands-vs-sweden",
+    "homeTeamId": "NED",
+    "awayTeamId": "SWE",
+    "venue": "Houston Stadium",
+    "city": "Houston, United States",
+    "kickoff": "2026-06-20T12:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "F",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M36",
+    "slug": "tunisia-vs-japan",
+    "homeTeamId": "TUN",
+    "awayTeamId": "JPN",
+    "venue": "Monterrey Stadium",
+    "city": "Guadalupe, Mexico",
+    "kickoff": "2026-06-20T22:00:00-06:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "F",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M37",
+    "slug": "uruguay-vs-cabo-verde",
+    "homeTeamId": "URU",
+    "awayTeamId": "CPV",
+    "venue": "Miami Stadium",
+    "city": "Miami Gardens, United States",
+    "kickoff": "2026-06-21T18:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "H",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M38",
+    "slug": "spain-vs-saudi-arabia",
+    "homeTeamId": "ESP",
+    "awayTeamId": "KSA",
+    "venue": "Atlanta Stadium",
+    "city": "Atlanta, United States",
+    "kickoff": "2026-06-21T12:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "H",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M39",
+    "slug": "belgium-vs-ir-iran",
+    "homeTeamId": "BEL",
+    "awayTeamId": "IRN",
+    "venue": "Los Angeles Stadium",
+    "city": "Inglewood, United States",
+    "kickoff": "2026-06-21T12:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "G",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M40",
+    "slug": "new-zealand-vs-egypt",
+    "homeTeamId": "NZL",
+    "awayTeamId": "EGY",
+    "venue": "BC Place Vancouver",
+    "city": "Vancouver, Canada",
+    "kickoff": "2026-06-21T18:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "G",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M41",
+    "slug": "norway-vs-senegal",
+    "homeTeamId": "NOR",
+    "awayTeamId": "SEN",
+    "venue": "New York New Jersey Stadium",
+    "city": "East Rutherford, United States",
+    "kickoff": "2026-06-22T20:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "I",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M42",
+    "slug": "france-vs-iraq",
+    "homeTeamId": "FRA",
+    "awayTeamId": "IRQ",
+    "venue": "Philadelphia Stadium",
+    "city": "Philadelphia, United States",
+    "kickoff": "2026-06-22T17:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "I",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M43",
+    "slug": "argentina-vs-austria",
+    "homeTeamId": "ARG",
+    "awayTeamId": "AUT",
+    "venue": "Dallas Stadium",
+    "city": "Arlington, United States",
+    "kickoff": "2026-06-22T12:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "J",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M44",
+    "slug": "jordan-vs-algeria",
+    "homeTeamId": "JOR",
+    "awayTeamId": "ALG",
+    "venue": "San Francisco Bay Area Stadium",
+    "city": "Santa Clara, United States",
+    "kickoff": "2026-06-22T20:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "J",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M45",
+    "slug": "england-vs-ghana",
+    "homeTeamId": "ENG",
+    "awayTeamId": "GHA",
+    "venue": "Boston Stadium",
+    "city": "Foxborough, United States",
+    "kickoff": "2026-06-23T16:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "L",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M46",
+    "slug": "panama-vs-croatia",
+    "homeTeamId": "PAN",
+    "awayTeamId": "CRO",
+    "venue": "Toronto Stadium",
+    "city": "Toronto, Canada",
+    "kickoff": "2026-06-23T19:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "L",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M47",
+    "slug": "portugal-vs-uzbekistan",
+    "homeTeamId": "POR",
+    "awayTeamId": "UZB",
+    "venue": "Houston Stadium",
+    "city": "Houston, United States",
+    "kickoff": "2026-06-23T12:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "K",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M48",
+    "slug": "colombia-vs-congo-dr",
+    "homeTeamId": "COL",
+    "awayTeamId": "COD",
+    "venue": "Guadalajara Stadium",
+    "city": "Zapopan, Mexico",
+    "kickoff": "2026-06-23T20:00:00-06:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "K",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M49",
+    "slug": "scotland-vs-brazil",
+    "homeTeamId": "SCO",
+    "awayTeamId": "BRA",
+    "venue": "Miami Stadium",
+    "city": "Miami Gardens, United States",
+    "kickoff": "2026-06-24T18:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "C",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": true
+  },
+  {
+    "id": "M50",
+    "slug": "morocco-vs-haiti",
+    "homeTeamId": "MAR",
+    "awayTeamId": "HTI",
+    "venue": "Atlanta Stadium",
+    "city": "Atlanta, United States",
+    "kickoff": "2026-06-24T18:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "C",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M51",
+    "slug": "switzerland-vs-canada",
+    "homeTeamId": "SUI",
+    "awayTeamId": "CAN",
+    "venue": "BC Place Vancouver",
+    "city": "BC Place Vancouver, Vancouver, Canada",
+    "kickoff": "2026-06-24T12:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "B",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M52",
+    "slug": "bosnia-and-herzegovina-vs-qatar",
+    "homeTeamId": "BIH",
+    "awayTeamId": "QAT",
+    "venue": "Seattle Stadium",
+    "city": "Seattle, United States",
+    "kickoff": "2026-06-24T12:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "B",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M53",
+    "slug": "czechia-vs-mexico",
+    "homeTeamId": "CZE",
+    "awayTeamId": "MEX",
+    "venue": "Mexico City Stadium",
+    "city": "Mexico City Stadium, Mexico City, Mexico",
+    "kickoff": "2026-06-24T19:00:00-06:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "A",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M54",
+    "slug": "south-africa-vs-korea-republic",
+    "homeTeamId": "RSA",
+    "awayTeamId": "KOR",
+    "venue": "Monterrey Stadium",
+    "city": "Guadalupe, Mexico",
+    "kickoff": "2026-06-24T19:00:00-06:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "A",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M55",
+    "slug": "curacao-vs-cote-d-ivoire",
+    "homeTeamId": "CUW",
+    "awayTeamId": "CIV",
+    "venue": "Philadelphia Stadium",
+    "city": "Philadelphia, United States",
+    "kickoff": "2026-06-25T16:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "E",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M56",
+    "slug": "ecuador-vs-germany",
+    "homeTeamId": "ECU",
+    "awayTeamId": "GER",
+    "venue": "New York New Jersey Stadium",
+    "city": "East Rutherford, United States",
+    "kickoff": "2026-06-25T16:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "E",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M57",
+    "slug": "japan-vs-sweden",
+    "homeTeamId": "JPN",
+    "awayTeamId": "SWE",
+    "venue": "Dallas Stadium",
+    "city": "Arlington, United States",
+    "kickoff": "2026-06-25T18:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "F",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M58",
+    "slug": "tunisia-vs-netherlands",
+    "homeTeamId": "TUN",
+    "awayTeamId": "NED",
+    "venue": "Kansas City Stadium",
+    "city": "Kansas City, United States",
+    "kickoff": "2026-06-25T18:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "F",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M59",
+    "slug": "turkiye-vs-united-states",
+    "homeTeamId": "TUR",
+    "awayTeamId": "USA",
+    "venue": "Los Angeles Stadium",
+    "city": "Los Angeles Stadium, Inglewood, U.S.",
+    "kickoff": "2026-06-25T19:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "D",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M60",
+    "slug": "paraguay-vs-australia",
+    "homeTeamId": "PAR",
+    "awayTeamId": "AUS",
+    "venue": "San Francisco Bay Area Stadium",
+    "city": "Santa Clara, United States",
+    "kickoff": "2026-06-25T19:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "D",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M61",
+    "slug": "norway-vs-france",
+    "homeTeamId": "NOR",
+    "awayTeamId": "FRA",
+    "venue": "Boston Stadium",
+    "city": "Foxborough, United States",
+    "kickoff": "2026-06-26T15:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "I",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M62",
+    "slug": "senegal-vs-iraq",
+    "homeTeamId": "SEN",
+    "awayTeamId": "IRQ",
+    "venue": "Toronto Stadium",
+    "city": "Toronto, Canada",
+    "kickoff": "2026-06-26T15:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "I",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M63",
+    "slug": "egypt-vs-ir-iran",
+    "homeTeamId": "EGY",
+    "awayTeamId": "IRN",
+    "venue": "Seattle Stadium",
+    "city": "Seattle, United States",
+    "kickoff": "2026-06-26T20:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "G",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M64",
+    "slug": "new-zealand-vs-belgium",
+    "homeTeamId": "NZL",
+    "awayTeamId": "BEL",
+    "venue": "BC Place Vancouver",
+    "city": "Vancouver, Canada",
+    "kickoff": "2026-06-26T20:00:00-07:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "G",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M65",
+    "slug": "cabo-verde-vs-saudi-arabia",
+    "homeTeamId": "CPV",
+    "awayTeamId": "KSA",
+    "venue": "Houston Stadium",
+    "city": "Houston, United States",
+    "kickoff": "2026-06-26T19:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "H",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M66",
+    "slug": "uruguay-vs-spain",
+    "homeTeamId": "URU",
+    "awayTeamId": "ESP",
+    "venue": "Guadalajara Stadium",
+    "city": "Zapopan, Mexico",
+    "kickoff": "2026-06-26T18:00:00-06:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "H",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M67",
+    "slug": "panama-vs-england",
+    "homeTeamId": "PAN",
+    "awayTeamId": "ENG",
+    "venue": "New York New Jersey Stadium",
+    "city": "East Rutherford, United States",
+    "kickoff": "2026-06-27T17:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "L",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M68",
+    "slug": "croatia-vs-ghana",
+    "homeTeamId": "CRO",
+    "awayTeamId": "GHA",
+    "venue": "Philadelphia Stadium",
+    "city": "Philadelphia, United States",
+    "kickoff": "2026-06-27T17:00:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "L",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M69",
+    "slug": "algeria-vs-austria",
+    "homeTeamId": "ALG",
+    "awayTeamId": "AUT",
+    "venue": "Kansas City Stadium",
+    "city": "Kansas City, United States",
+    "kickoff": "2026-06-27T21:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "J",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M70",
+    "slug": "jordan-vs-argentina",
+    "homeTeamId": "JOR",
+    "awayTeamId": "ARG",
+    "venue": "Dallas Stadium",
+    "city": "Arlington, United States",
+    "kickoff": "2026-06-27T21:00:00-05:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "J",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M71",
+    "slug": "colombia-vs-portugal",
+    "homeTeamId": "COL",
+    "awayTeamId": "POR",
+    "venue": "Miami Stadium",
+    "city": "Miami Gardens, United States",
+    "kickoff": "2026-06-27T19:30:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "K",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  },
+  {
+    "id": "M72",
+    "slug": "congo-dr-vs-uzbekistan",
+    "homeTeamId": "COD",
+    "awayTeamId": "UZB",
+    "venue": "Atlanta Stadium",
+    "city": "Atlanta, United States",
+    "kickoff": "2026-06-27T19:30:00-04:00",
+    "stage": "GROUP",
+    "status": "UPCOMING",
+    "group": "K",
+    "roundLabel": "Group Stage",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "homeStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "awayStats": {
+      "possession": 0,
+      "shots": 0,
+      "shotsOnTarget": 0,
+      "xg": 0,
+      "bigChances": 0,
+      "passes": 0
+    },
+    "winProbability": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    },
+    "momentum": [
+      {
+        "minute": 0,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 15,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 30,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 45,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 60,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 75,
+        "home": 0.5,
+        "away": 0.5
+      },
+      {
+        "minute": 90,
+        "home": 0.5,
+        "away": 0.5
+      }
+    ],
+    "timelineEventIds": [],
+    "featured": false
+  }
+]

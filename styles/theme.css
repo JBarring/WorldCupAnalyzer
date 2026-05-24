@@ -1,0 +1,53 @@
+:root {
+  --font-sans: "Avenir Next", "Segoe UI", "Helvetica Neue", sans-serif;
+  --font-display: "Impact", "Arial Narrow Bold", "Avenir Next Condensed", sans-serif;
+  --bg: #050816;
+  --bg-2: #0a1124;
+  --surface: rgba(10, 18, 36, 0.74);
+  --surface-strong: rgba(8, 14, 28, 0.92);
+  --line: rgba(146, 162, 192, 0.18);
+  --text: #f6f8ff;
+  --muted: #98a7c4;
+  --accent: #4adeb6;
+  --accent-2: #ffbe55;
+  --accent-3: #ff627d;
+  --shadow-premium: 0 24px 80px rgba(0, 0, 0, 0.35);
+}
+
+body {
+  color: var(--text);
+  font-family: var(--font-sans);
+  background:
+    radial-gradient(circle at 20% 10%, rgba(35, 116, 255, 0.18), transparent 30%),
+    radial-gradient(circle at 80% 20%, rgba(74, 222, 182, 0.12), transparent 28%),
+    radial-gradient(circle at 50% 100%, rgba(255, 98, 125, 0.12), transparent 36%),
+    linear-gradient(180deg, var(--bg-2) 0%, var(--bg) 55%, #040611 100%);
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size: 72px 72px;
+  mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.45), transparent);
+  opacity: 0.32;
+}
+
+.page-shell {
+  position: relative;
+}
+
+.page-shell::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.08), transparent 28%),
+    linear-gradient(315deg, rgba(74, 222, 182, 0.08), transparent 34%);
+  opacity: 0.45;
+}
